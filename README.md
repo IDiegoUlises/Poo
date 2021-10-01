@@ -1,4 +1,5 @@
 # Poo
+Programacion ortientada a objetos
 ``c++
 #include <iostream>
 
@@ -45,5 +46,4 @@ int main()
 	a2.estudiar();
 	a2.escuchar();
 }
-
 ``
