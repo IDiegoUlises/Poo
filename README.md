@@ -1,6 +1,6 @@
 # Poo
 Programacion ortientada a objetos
-``c++
+```c++
 #include <iostream>
 
 using namespace std;
@@ -46,4 +46,4 @@ int main()
 	a2.estudiar();
 	a2.escuchar();
 }
-``
+```
