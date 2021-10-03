@@ -1,5 +1,5 @@
 # Poo
-Programacion ortientada a objetos
+Programacion orientada a objetos
 ```c++
 #include <iostream>
 
